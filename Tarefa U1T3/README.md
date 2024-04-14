@@ -11,7 +11,7 @@ A função tem como argumentos a árvore e o valor target a ser procurado nela, 
 
 Pontua-se que o método de resolução sequencial é percorrer a árvore inteira comparando os valores encontrados com o target pela diferença absoluta — ou seja, em módulo — e armazenar o valor com menor diferença absoluta na variável a ser retornada pela função.
 
-A complexidade do algoritmo é O(log(n)) para o caso que a árvore está balanceada.
+A complexidade do algoritmo é O(log(n)) para o caso que a árvore está balanceada (propriedade das BST de descartar metade dos elementos conforme vai descendo na árvore) e O(n) para o caso em que está completamente desbalanceada (target é o último nó folha, então vai precisar percorrer os n nós).
 
 ## Challenge 02: Find Kth Largest Value.
 
