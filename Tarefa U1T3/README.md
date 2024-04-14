@@ -31,4 +31,4 @@ Challenge 1: https://colab.research.google.com/drive/1P5J5c7c2McOz6K5HAk87iiKNAC
 
 Challenge 2: https://colab.research.google.com/drive/10cb7QuYYWlyFof3FtOWSvhNmotCtAH15?usp=sharing
 
-Vídeo: 
+Vídeo: https://www.loom.com/share/dea399e07eb2413b9c20f5be3c65dd15?sid=4dbdbe8c-9429-46ba-8e18-998dfa07f97e
