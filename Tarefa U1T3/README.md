@@ -1,4 +1,5 @@
 # TAREFA U1T3 - Estruturas de Dados II
+
 Esse repositório contém 2 notebooks jupyter referentes à terceira tarefa da unidade 1 de Estruturas de Dados II.
 
 Autor: José Martins Neto
@@ -25,6 +26,9 @@ Pontua-se que foi utilizado uma outra função dentro da função principal, com
 A complexidade do algoritmo implementado é O(h + k), em que o custo-h (h é a altura da árvore) é para chegar no nó folha mais à direita, e o custo-k é a quantidade de vezes que a função vai executar após chegar nesse nó.
 
 #### Links:
+
 Challenge 1: https://colab.research.google.com/drive/1P5J5c7c2McOz6K5HAk87iiKNACyiCGqo?usp=sharing
+
 Challenge 2: https://colab.research.google.com/drive/10cb7QuYYWlyFof3FtOWSvhNmotCtAH15?usp=sharing
+
 Vídeo: 
