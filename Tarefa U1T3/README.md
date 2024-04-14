@@ -12,7 +12,7 @@ Pontua-se que o método de resolução sequencial é percorrer a árvore inteira
 
 A complexidade do algoritmo é O(log(n)) para o caso que a árvore está balanceada.
 
-### Challenge 02: Find Kth Largest Value.
+## Challenge 02: Find Kth Largest Value.
 
 Na segunda tarefa, implementou-se uma função para encontrar o k-ésimo maior valor presente na árvore BST.
 
