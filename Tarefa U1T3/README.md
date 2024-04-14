@@ -1,6 +1,8 @@
 # TAREFA U1T3 - Estruturas de Dados II
 Esse repositório contém 2 notebooks jupyter referentes à terceira tarefa da unidade 1 de Estruturas de Dados II.
+
 Autor: José Martins Neto
+
 ## Challenge 01: Find Closest Value.
 Nesta tarefa, implementou-se uma função para identificar o elemento mais próximo de um valor arbitrário, dentro de uma árvore BST. 
 
