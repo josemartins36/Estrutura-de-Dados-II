@@ -18,8 +18,8 @@ Na segunda tarefa, implementou-se uma função para encontrar o k-ésimo maior v
 
 A função utilizada tem como argumentos a árvore e o valor de 'k' arbitrário, retornando o k-ésimo maior valor.
 
-O método de resolução recursivo é percorrer a árvore BST in-ordem, com a operação de visita do método in-ordem sendo um append em uma lista, a qual ao final do algoritmo estará ordenada em ordem crescente. Por fim lê-se o k-ésimo elemento da lista começando pelo final, ou seja, o k-ésimo maior.
+O método de resolução sequencial é percorrer a árvore BST in-ordem de forma decrescente, ou seja, no lugar de ser left-ação-right (in-ordem crescente) vai ser right-ação-left, com a operação de visita ocorrendo somente na iteração k, retornando assim o k-ésimo maior valor.
 
-Pontua-se que foi utilizado uma outra função dentro da função principal, com argumentos o nó e a lista que será ordenada, permitindo fazer operações com a árvore.
+Pontua-se que foi utilizado uma outra função dentro da função principal, com argumento o nó, visto que a função principal não tinha ele.
 
-A complexidade do algoritmo implementado é O(n), em função de ser necessário percorrer a árvore inteira (custo-n elementos) alocando in-ordem numa lista. Acredito que seria possível reduzir para O(k) em uma implementação sequencial no lugar de recursiva, em que busca-se elementos
+A complexidade do algoritmo implementado é O(h + k), em que o custo-h (h é a altura da árvore) é para chegar no nó folha mais à direita, e o custo-k é a quantidade de vezes que a função vai executar após chegar nesse nó.
