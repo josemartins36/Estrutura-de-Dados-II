@@ -23,3 +23,8 @@ O método de resolução sequencial é percorrer a árvore BST in-ordem de forma
 Pontua-se que foi utilizado uma outra função dentro da função principal, com argumento o nó, visto que a função principal não tinha ele.
 
 A complexidade do algoritmo implementado é O(h + k), em que o custo-h (h é a altura da árvore) é para chegar no nó folha mais à direita, e o custo-k é a quantidade de vezes que a função vai executar após chegar nesse nó.
+
+#### Links:
+Challenge 1: https://colab.research.google.com/drive/1P5J5c7c2McOz6K5HAk87iiKNACyiCGqo?usp=sharing
+Challenge 2: https://colab.research.google.com/drive/10cb7QuYYWlyFof3FtOWSvhNmotCtAH15?usp=sharing
+Vídeo: 
