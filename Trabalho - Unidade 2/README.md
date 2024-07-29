@@ -13,4 +13,5 @@ O [quarto pré-requisito](link) é um vídeo explicando tudo o que foi desenvolv
 
 ## Principais referências:
 [Notas de aula](https://github.com/ivanovitchm/datastructure?tab=readme-ov-file)
+
 [Biblioteca networkX](https://networkx.org/)
