@@ -7,5 +7,6 @@
 ![image](https://github.com/user-attachments/assets/717b6c82-9a6f-492b-93cf-2ae978eb289f)
 
 ## ODS_11:
+![image](https://github.com/user-attachments/assets/f5a7530a-2cda-4bad-b0d2-d7abc3b0f5c9)
 
 ## ODS_15:
