@@ -1,6 +1,6 @@
-# Trabalho Unidade 2 - Requisito 1
+# Estrutura de Dados II - Trabalho Unidade 2 
 
-## Challenge 01: Find Closest Value.
+## Requisito 1
 Após filtrar apenas artigos da UFRN, com o objetivo de criar uma rede de co-autoria, escolheu-se 4 ODS para gerar a base de dados, no formato ods_x.csv (x é o número da ODS)
 
 ### As ODS escolhidas foram a 3, 7, 11, 15.
