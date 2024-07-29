@@ -2,5 +2,5 @@
 
 ## Requisito 2: Para cada uma das redes/ODS escolhidas, fazer um gráfico bipartido sobre a assortatividade em relação ao grau dos nós da rede. 
 
-### Comentários:
+### Comentários dos resultados das diferentes redes:
 TESTE
