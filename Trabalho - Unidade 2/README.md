@@ -1,7 +1,7 @@
 # Estrutura de Dados II - Trabalho da segunda unidade: Investigando redes de Co-Autoria e ODS-ONU
-Principais ideias trabalhadas nesse projeto: Assortatividade, Componentes Conectados e Coeficiente de Agrupamento.
-
 Objetivo: Criar uma rede de Co-Autoria da UFRN
+
+Principais ideias trabalhadas nesse projeto: Assortatividade, Componentes Conectados e Coeficiente de Agrupamento.
 
 Com 4 pré-requisitos, o primeiro é acerca das ODS escolhidas (3, 7, 11, 15), cujos arquivos .csv estão expostos aqui segue link.
 
