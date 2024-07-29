@@ -13,8 +13,9 @@ Apesar de ser a rede com o maior número de vértices e arestas, o que indica um
 
 ### ODS 7 - Energia limpa e acessível:
 Em contraste com a rede ODS 3, essa rede é menor e mais dispersa, com um coeficiente de clustering ainda menor que o da rede ODS 3.
+
 ### ODS 11 - Cidades e comunidades sustentáveis:
 Com coeficiente de assortatividade extremamente próximo de 1, é uma rede com forte tendência de graus semelhantes se conectarem. Além disso, apresenta um coeficiente de clustering relativamente alto, indicando uma tendência dos pesquisadores de formarem grande grupos. É possível perceber também que nessa rede o tamanho do componente gigante é significativo em relação ao total de vértices, constituindo uma fração maior que das outras redes observadas. Em virtude de todas essas características, é de se esperar que seja uma rede com diversos grupos de pesquisadores e esses de graus próximos.
 
 ### ODS 15 - Vida terrestre:
-Com características similares à rede ODS 11, no que tange a assortatividade e o clustering, essa rede possui forte tendência de graus semelhantes se conectarem e formarem clusters.
+Com características similares à rede ODS 11, no que tange à assortatividade e ao clustering, essa rede possui forte tendência de nós com graus semelhantes se conectarem e formarem clusters.
