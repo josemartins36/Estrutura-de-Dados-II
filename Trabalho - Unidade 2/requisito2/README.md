@@ -1,4 +1,4 @@
 ## Comentários dos resultados das diferentes redes:
 TESTE
-(./ods_3.png)
+[imagem](./ods_3.png)
 
