@@ -1,4 +1,4 @@
-| Redes  | Coluna 2 | Coluna 3 | Coluna 4 | Coluna 5 | Coluna 6 | Coluna 7 |
+| Redes  | Qtd vértices | Qtd arestas | Degree assortativity coefficient | Qtd_comp_conectados | Tamanho do comp. gigante | Coef. de Clustering |
 |----------|----------|----------|----------|----------|----------|----------|
 | ODS_3  | Dados    | Dados    | Dados    | Dados    | Dados    | Dados    |
 | ODS_7  | Dados    | Dados    | Dados    | Dados    | Dados    | Dados    |
