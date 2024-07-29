@@ -9,8 +9,7 @@ O [segundo pré-requisito](./requisito2/) diz respeito ao gráfico bipartido sob
 
 O [terceiro pré-requisito](./requisito3/) consiste no preenchimento de uma tabela com métricas comuns em análise de grafos, conforme calculadas com a biblioteca NetworkX.
 
-O quarto e último pré-requisito é um vídeo explicando tudo o que foi desenvolvido assim como a explicação dos resultados e os principais achados com o trabalho. 
-Link: 
+O [quarto pré-requisito](link) é um vídeo explicando tudo o que foi desenvolvido assim como a explicação dos resultados e os principais achados com o trabalho. 
 
 ## Principais referências:
 notas de aula do seguinte repositorio https://github.com/ivanovitchm/datastructure?tab=readme-ov-file
