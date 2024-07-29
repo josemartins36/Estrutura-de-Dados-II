@@ -12,6 +12,5 @@ O [terceiro pré-requisito](./requisito3/) consiste no preenchimento de uma tabe
 O [quarto pré-requisito](link) é um vídeo explicando tudo o que foi desenvolvido assim como a explicação dos resultados e os principais achados com o trabalho. 
 
 ## Principais referências:
-notas de aula do seguinte repositorio https://github.com/ivanovitchm/datastructure?tab=readme-ov-file
-
-biblioteca networkX: https://networkx.org/
+[Notas de aula](https://github.com/ivanovitchm/datastructure?tab=readme-ov-file)
+[Biblioteca networkX](https://networkx.org/)
