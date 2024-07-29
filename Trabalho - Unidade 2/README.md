@@ -3,7 +3,7 @@ Objetivo: Criar uma rede de Co-Autoria da UFRN
 
 Principais ideias trabalhadas nesse projeto: Assortatividade, Componentes Conectados e Coeficiente de Agrupamento.
 
-Com 4 pré-requisitos, o primeiro é acerca das ODS escolhidas (3, 7, 11, 15), cujos arquivos .csv estão expostos [aqui](/requisito1/).
+Com 4 pré-requisitos, o primeiro é acerca das ODS escolhidas (3, 7, 11, 15), cujos arquivos .csv estão expostos [aqui](./requisito1/).
 
 O segundo pré-requisito diz respeito ao gráfico bipartido sobre a assortatividade em relação ao grau dos nós da rede e sua respectiva análise dos resultados obtidos.
 
