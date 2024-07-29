@@ -10,3 +10,4 @@
 ![image](https://github.com/user-attachments/assets/f5a7530a-2cda-4bad-b0d2-d7abc3b0f5c9)
 
 ## ODS_15:
+![image](https://github.com/user-attachments/assets/36991875-2542-42a7-a65a-d90d3e9369df)
