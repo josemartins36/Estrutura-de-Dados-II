@@ -17,5 +17,4 @@ Em contraste com a rede ODS 3, essa rede é menor e mais dispersa, com um coefic
 Com coeficiente de assortatividade extremamente próximo de 1, é uma rede com forte tendência de graus semelhantes se conectarem. Além disso, apresenta um coeficiente de clustering relativamente alto, indicando uma tendência dos pesquisadores de formarem grande grupos. É possível perceber também que nessa rede o tamanho do componente gigante é significativo em relação ao total de vértices, constituindo uma fração maior que das outras redes observadas. Em virtude de todas essas características, é de se esperar que seja uma rede com diversos grupos de pesquisadores e esses de graus próximos.
 
 ### ODS 15 - Vida terrestre:
-Com coeficiente de assortatividade extremamente próximo de 1, é uma rede com forte tendência de graus semelhantes se conectarem. Além disso, apresenta um coeficiente de clustering relativamente alto, indicando uma tendência dos pesquisadores de formarem grande grupos.
-
+Com características similares à rede ODS 11, no que tange a assortatividade e o clustering, essa rede possui forte tendência de graus semelhantes se conectarem e formarem clusters.
