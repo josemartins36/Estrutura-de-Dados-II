@@ -3,5 +3,8 @@
 ## Requisito 1
 Após filtrar apenas artigos da UFRN, com o objetivo de criar uma rede de co-autoria, escolheu-se 4 ODS para gerar a base de dados, no formato ods_x.csv (x é o número da ODS).
 
-### ODS escolhidas:
-3, 7, 11, 15
+### ODS escolhidas: 
+3 - Saúde e bem-estar
+7 - Energia limpa e acessível
+11 - Cidades e comunidades sustentáveis 
+15 - Vida terrestre
