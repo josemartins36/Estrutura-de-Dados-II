@@ -8,10 +8,11 @@
 
 ## Comentários:
 
-### ODS 3 - :
-
-### ODS 7 - :
-
-### ODS 11 - :
-
-### ODS 15 - :
+### ODS 3 - Saúde e bem-estar:
+A
+### ODS 7 - Energia limpa e acessível:
+A
+### ODS 11 - Cidades e comunidades sustentáveis:
+A
+### ODS 15 - Vida terrestre:
+A
