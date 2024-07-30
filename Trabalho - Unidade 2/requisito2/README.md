@@ -9,6 +9,7 @@
 
 
 ## ODS_11:
+![image](https://github.com/user-attachments/assets/2c8e0269-19a1-4495-bf35-103009052ae4)
 
 
 ## ODS_15:
