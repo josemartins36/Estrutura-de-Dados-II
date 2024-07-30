@@ -5,6 +5,7 @@
 
 
 ## ODS_7:
+![image](https://github.com/user-attachments/assets/a94eb0cc-55b3-46e8-b1d6-1fa479d54ebb)
 
 
 ## ODS_11:
