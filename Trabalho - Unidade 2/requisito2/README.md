@@ -20,4 +20,4 @@ Há uma tendência ascendente de colaboração perceptível, porém também é n
 
 Apresentando também uma tendência ascendente de colaboração, essa rede é similar à da ODS 7 no sentido que há pontos dispersos de forma significativa, sendo dificil precisar a assortatividade da rede em função dos nós de baixo grau com vizinhos de alto grau e vice-versa. 
 
-No geral, todas as redes analisadas aparenteram possuir clusters em sua composição, sejam vários pequenos clusters ou um grande cluster de colaboração, como observado na ODS 11.
+No geral, todas as redes analisadas aparenteram possuir clusters em sua composição, sejam vários pequenos clusters ou um grande cluster de colaboração, como observado na ODS 3 e na 11.
