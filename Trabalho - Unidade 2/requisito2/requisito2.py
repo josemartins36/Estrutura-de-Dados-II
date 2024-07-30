@@ -21,7 +21,7 @@ class CoauthorshipGraph:
         self.G = nx.Graph()
 
     def create_graph(self):
-        """Builds a graph where nodes are authors and edges represent co-authorship."""
+        """Constrói um grafo com autores como nós e coautorias como arestas."""
         for _, row in self.df.iterrows():
             authors_id = row["Author(s) ID"].split("; ")
             authors = row["Authors"].split("; ")
