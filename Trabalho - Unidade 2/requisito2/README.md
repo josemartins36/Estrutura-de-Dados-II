@@ -10,4 +10,5 @@
 ![image](https://github.com/user-attachments/assets/440c3dfa-d23e-402d-ade1-96d69a13d5a5)
 
 ## ODS_15:
+![image](https://github.com/user-attachments/assets/a06a0a2a-e50d-4b7e-968d-68785ecc8732)
 
