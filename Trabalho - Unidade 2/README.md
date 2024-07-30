@@ -11,6 +11,7 @@ O [terceiro pré-requisito](./requisito3/) consiste no preenchimento de uma tabe
 
 O [quarto pré-requisito](link) é um vídeo explicando tudo o que foi desenvolvido assim como a explicação dos resultados e os principais achados com o trabalho. 
 
+Além dos arquivos fontes disponibilizados, [aqui](https://colab.research.google.com/drive/17eAYKb66qFB-ypNeH88eTNr3_4KN8PMR?usp=sharing) está a implementação no colab para fácil replicação.
 ## Principais referências:
 [Notas de aula](https://github.com/ivanovitchm/datastructure?tab=readme-ov-file)
 
