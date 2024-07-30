@@ -13,9 +13,11 @@ Apesar de haver uma ligeira tendência ascendente de um pesquisador colaborar co
 ## ODS_11:
 ![image](https://github.com/user-attachments/assets/440c3dfa-d23e-402d-ade1-96d69a13d5a5)
 
-Há uma tendência ascendente de colaboração perceptível, porém também é notório que a maior parte da rede é composta por nós de pequenos graus com vizinhos similhares, possivelmente sendo uma rede intensamente interligada e com grandes clusters bem definidos de colaboração entre os pesquisadores.
+Há uma tendência ascendente de colaboração perceptível, porém também é notório que a maior parte da rede é composta por nós de pequenos graus com vizinhos similhares, possivelmente sendo uma rede intensamente interligada e com grandes clusters bem definidos de colaboração entre os pesquisadores. Destaca-se a presença de pequenos clusters de grande colaboração também.
 
 ## ODS_15:
 ![image](https://github.com/user-attachments/assets/a06a0a2a-e50d-4b7e-968d-68785ecc8732)
 
-Apresentando também uma tendência ascendente de colaboração, essa rede é similar à da ODS 7 no sentido que há pontos dispersos de forma significativa, sendo dificil precisar a assortatividade da rede em função dos nós de baixo grau com vizinhos de alto grau e vice-versa.
+Apresentando também uma tendência ascendente de colaboração, essa rede é similar à da ODS 7 no sentido que há pontos dispersos de forma significativa, sendo dificil precisar a assortatividade da rede em função dos nós de baixo grau com vizinhos de alto grau e vice-versa. 
+
+No geral, todas as redes analisadas aparenteram possuir clusters em sua composição, sejam vários pequenos clusters ou um grande cluster de colaboração, como observado na ODS 11.
