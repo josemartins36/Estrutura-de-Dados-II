@@ -13,3 +13,4 @@
 
 
 ## ODS_15:
+![image](https://github.com/user-attachments/assets/1f7f4a22-d4a0-4018-9ef0-02674f9aa4be)
