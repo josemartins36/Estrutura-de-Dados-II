@@ -13,6 +13,7 @@ Principais ideias trabalhadas nesse projeto:
 1. Closeness, Betweenness and Eigenvector Centrality
 2. Centrality Distribution (PDF & CDF)
 3. Core Decomposition
+4. Visualização da rede em produção
 
 Tanto o código utilizado para cumprir os requisitos solicitados quanto a exposição e explicações dos resultados estão no notebook apresentado, com fácil **reprodução da implementação** no Google Colab. Ressalta-se a necessidade de upar o arquivo RN_rdy.graphml, disponibilizado neste repositório, para executar a parte das métricas estudadas.
 
