@@ -9,6 +9,7 @@ Principais ideias trabalhadas nesse projeto:
 Além dos arquivos fontes disponibilizados, [aqui]() está a implementação no colab para fácil replicação.
 ## Principais referências:
 [Notas de aula - semana 8](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Hubs.ipynb)
+
 [Notas de aula - semana 9](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Wikipedia.ipynb)
 
 [Biblioteca networkX](https://networkx.org/)
