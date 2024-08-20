@@ -1,4 +1,7 @@
 # Estrutura de Dados II - Trabalho da terceira unidade: Explorando as principais métricas dos Hubs
+
+## Aluno: José Martins Neto
+
 Objetivo: Montar um grafo em que os vértices são páginas da wikipedia e as arestas suas conexões a partir de 3 seeds (páginas iniciais) e tanto extrair quanto comentar as métricas vistas em sala de aula.
 
 Principais ideias trabalhadas nesse projeto: 
