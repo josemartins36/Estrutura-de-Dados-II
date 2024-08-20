@@ -14,7 +14,7 @@ Principais ideias trabalhadas nesse projeto:
 2. Centrality Distribution (PDF & CDF)
 3. Core Decomposition
 
-Tanto o código utilizado para cumprir os requisitos solicitados quanto a exposição e explicações dos resultados estão no notebook apresentado, com fácil **reprodução da implementação** no Google Colab. Ressalta-se a necessidade de upar o arquivo RN.graphml, disponibilizado neste repositório, para executar a parte das métricas estudadas.
+Tanto o código utilizado para cumprir os requisitos solicitados quanto a exposição e explicações dos resultados estão no notebook apresentado, com fácil **reprodução da implementação** no Google Colab. Ressalta-se a necessidade de upar o arquivo RN_rdy.graphml, disponibilizado neste repositório, para executar a parte das métricas estudadas.
 
 ## Principais referências:
 [Notas de aula - semana 8](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Hubs.ipynb)
