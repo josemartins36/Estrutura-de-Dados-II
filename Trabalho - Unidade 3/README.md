@@ -6,7 +6,8 @@ Principais ideias trabalhadas nesse projeto:
 2. Centrality Distribution (PDF & CDF)
 3. Core Decomposition
 
-Além dos arquivos fontes disponibilizados, [aqui]() está a implementação no colab para fácil replicação.
+Tanto o código utilizado para cumprir os requisitos solicitados quanto a exposição e explicações dos resultados estão no notebook apresentado, com fácil **reprodução da implementação** no Google Colab.
+
 ## Principais referências:
 [Notas de aula - semana 8](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Hubs.ipynb)
 
