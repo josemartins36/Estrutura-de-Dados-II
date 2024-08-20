@@ -13,7 +13,7 @@ Principais ideias trabalhadas nesse projeto:
 1. Closeness, Betweenness and Eigenvector Centrality
 2. Centrality Distribution (PDF & CDF)
 3. Core Decomposition
-4. [Visualização da rede em produção](https://ouestware.gitlab.io/retina/beta/#/graph/?l=1&r=d&sa[]=ei&sa[]=r&sa[]=co&ca[]=o-s&ca[]=d-s&ca[]=m-s&ca[]=ec-s&ca[]=cl-s&ca[]=h-s&ca[]=b-s&ca[]=i-s)
+4. [Visualização da rede em produção](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2Fjosemartins36%2F46adf54e7db910bdfaf642f9e3197a8c%2Fraw%2F79ee01035e72d6ff65e5a05f82a1faac1ebcdd6c%2FRN_rdy.graphml&sa[]=co&sa[]=ei&sa[]=r&ca[]=i-s&ca[]=o-s&ca[]=d-s&ca[]=m-s&ca[]=ec-s&ca[]=cl-s&ca[]=h-s&ca[]=b-s)
 
 Tanto o código utilizado para cumprir os requisitos solicitados quanto a exposição e explicações dos resultados estão no notebook apresentado, com fácil **reprodução da implementação** no Google Colab. Ressalta-se a necessidade de upar o arquivo RN_rdy.graphml, disponibilizado neste repositório, para executar a parte das métricas estudadas.
 
