@@ -14,6 +14,6 @@ Além dos arquivos fontes disponibilizados, [aqui]() está a implementação no 
 
 [Biblioteca networkX](https://networkx.org/)
 
-[Biblioteca wikipedia](https://wikipedia.readthedocs.io/en/latest/code.html#api))
+[Biblioteca wikipedia](https://wikipedia.readthedocs.io/en/latest/code.html#api)
 
 [Gephi documentação](https://docs.gephi.org/Developer_Documentation/)
